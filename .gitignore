@@ -57,3 +57,6 @@ typings/
 # dotenv environment variables file
 .env
 
+#connection-passwords file
+/config/connection-pws.js
+

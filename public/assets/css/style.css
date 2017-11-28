@@ -1,0 +1,158 @@
+body {
+    background-color: steelblue;
+}
+
+nav {
+    box-shadow: 0px 3px 10px 0px #0c5460;
+}
+
+.views-box {
+    margin-bottom: 90px;    
+}
+
+.search-box{
+    background-color: #f8f9fa;
+    box-shadow: 0px 3px 10px 0px #0c5460;
+    padding: 20px;
+    margin: 0px auto;
+    border-radius: .25rem;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #ffaa00;
+    border-color: #a46c03;
+}
+
+.content-box {
+    margin-top: 15px;
+    background-color: #f8f9fa;
+    box-shadow: 0px 3px 10px 0px #0c5460;
+    padding-top: 10px;    
+    padding-bottom: 12px;
+    border-radius: .25rem;
+}
+
+.user-result-card {
+    background-color: #f8f9fa;
+    margin-top: 10px;
+    margin-left: 13%;
+    box-shadow: 0px 3px 10px 0px #0c5460;
+}
+
+.view-profile-btn {
+    background-color: rgb(241, 192, 37);
+    border-color: rgb(137, 109, 21);
+}
+.user-cols {
+    min-width: 50%;
+    max-width: 50%;
+    padding: 0;
+}
+
+.user-header {
+    text-align: center;
+}
+
+/* P R O F I L E   P A G E */
+.profile-card {
+}
+
+.profile-links-card{
+    height: 100%;
+    padding-top: 15px;
+    background-color: rgb(241, 192, 37)    
+}
+
+.card-link-div{
+    width: 100%;
+    color: floralwhite;
+    text-align: center;
+    /* min-height: 30%; */
+    font-size: 40pt;
+    border-radius: .25rem;
+    background-color: rgb(241, 192, 37);
+    border-width: 0;
+    white-space: normal;
+}
+
+/*G A M E S   R E S U L T S*/
+.games-card {
+    background-color: #f8f9fa;
+    margin-top: 10px;
+    margin-left: 13%;
+    margin-right: 5%;
+    box-shadow: 0px 3px 10px 0px #0c5460;
+}
+
+#addGame {
+    margin-top: 5%;
+}
+
+.games-cols {
+    min-width: 45%;
+    max-width: 45%;
+    padding: 0;
+    display: inline-block;
+}
+
+#game-results {
+    padding-left: 15%;
+}
+
+#addWishList {
+    margin-top: 3px;
+}
+
+
+/* U S E R   L I B R A R Y */
+.lib-games-cols {
+    min-width: 45%;
+    max-width: 80%;
+    padding: 0;
+}
+
+.lib-box {
+    padding-left: 20%;
+}
+
+.games-result-card{
+    margin-top: 10px;
+}
+
+/* F O O T E R  */
+html, body{
+    height: 100%;
+    margin: 0;
+}
+
+.wrapper {
+    min-height: 100%;
+    margin-bottom: -90px;
+}
+
+.push {
+    margin-bottom: 90px;
+    clear: both;
+    height: 90px;
+}
+
+.footer-content {
+    width: 100%;
+    color: #444;
+    font-family:'Open Sans', sans-serif;
+    font-size: 14px;
+    text-align: center;
+    margin: 0 auto;
+} 
+
+.fixed-footer {
+    height: 90px;
+    margin: 20px 20% 0 20%;
+    align-items: start;
+}
+
+.center-footer {
+    margin: 0 auto;
+    width: 50%;
+}
